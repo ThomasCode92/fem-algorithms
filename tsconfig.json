@@ -10,16 +10,8 @@
         "target": "esnext",
         "module": "commonjs",
         "baseUrl": "src",
-        "paths": {
-            "@code/*": [
-                "day1/*"
-            ]
-        }
+        "paths": { "@code/*": ["code/*"] }
     },
-    "include": [
-        "./src/**/*"
-    ],
-    "exclude": [
-        "node_modules"
-    ]
+    "include": ["./src/**/*"],
+    "exclude": ["node_modules"]
 }
