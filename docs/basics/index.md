@@ -45,3 +45,28 @@ function sum_char_codes(n: string): number {
     return sum;
 }
 ```
+
+## Arrays Data Structures
+
+If `const a = []` isn't an array (in JavaScript), what is it? We will see it later...
+
+![array](./images/array.excalidraw.png)
+
+Example in NodeJS:
+
+```javascript
+const a = new ArrayBuffer(6);
+const a8 = new Uint8Array(a);
+const a16 = new Uint16Array(a);
+
+a8[0] = 45;
+a8[2] = 45;
+
+// <2d 00 2d 00 00 00>
+
+a16[2] = 0x4545;
+
+// <2d 00 2d 00 45 45>
+```
+
+Arrays are fixed size, contiguous memory chunks, that means you cannot grow it and there is no "_insertAt_" or push or pop. (Doesn't mean you can't write those though.)
