@@ -23,4 +23,6 @@ for i..n
 
 ![queue](./images/queue.excalidraw.png)
 
-**Stack** ![stack](./images/stack.excalidraw.png)
+**Stack**
+
+![stack](./images/stack.excalidraw.png)
