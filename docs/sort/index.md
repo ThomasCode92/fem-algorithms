@@ -16,3 +16,7 @@ for i..n
 ## Linked Lists
 
 ![linked list](./images/linked-list.excalidraw.png)
+
+## Queue
+
+![queue](./images/queue.excalidraw.png)
