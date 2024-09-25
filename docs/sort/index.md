@@ -17,6 +17,10 @@ for i..n
 
 ![linked list](./images/linked-list.excalidraw.png)
 
-## Queue
+## Queue & Stack
+
+**Queue**
 
 ![queue](./images/queue.excalidraw.png)
+
+**Stack** ![stack](./images/stack.excalidraw.png)
