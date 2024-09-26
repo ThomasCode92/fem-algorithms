@@ -19,10 +19,10 @@ do
     m = floor(lo + (hi - lo) / 2);
     v = arr[m]
     if v = n return true
-    else if v > m
-        lo = m+1
-    else
+    else if v > n
         hi = m
+    else
+        lo = m+1
 while lo < hi
 return false
 ```
