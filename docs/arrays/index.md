@@ -13,3 +13,13 @@ Can we have an array access with the ability to grow?
 ## RingBuffer
 
 ![ring-buffer](./images/ring-buffer.excalidraw.png)
+
+## What are JavaScript Array?
+
+Execute the following command in the terminal: `npx ts-node src/utils/array-test.ts`, and review the output. You'll observe the following time complexities:
+
+-   **get** => O(1)
+-   **push/pop** => O(1)
+-   **un/shift** => O(N)
+
+Thus, we can conclude that JavaScript arrays are implemented similarly to ArrayLists!
