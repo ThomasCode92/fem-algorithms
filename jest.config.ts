@@ -6,6 +6,7 @@ const config: Config = {
     preset: "ts-jest",
     clearMocks: true,
     moduleDirectories: ["node_modules", "src"],
+    rootDir: "./tests",
     moduleFileExtensions: ["ts", "js"],
 };
 

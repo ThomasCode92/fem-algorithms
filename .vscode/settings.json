@@ -2,7 +2,7 @@
     // Extensions
     "gitlens.codeLens.recentChange.enabled": false,
     "gitlens.codeLens.authors.enabled": false,
-    "jest.jestCommandLine": "npm test --",
+    "jest.jestCommandLine": "npx jest --silent --runInBand",
     "jest.runMode": "on-demand",
 
     // IDE Config
