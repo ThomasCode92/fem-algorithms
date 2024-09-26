@@ -17,3 +17,7 @@ function foo(n: number): number {
 ```
 
 ![recursion](./images/recursion.excalidraw.png)
+
+## Path Finding
+
+![path finding](./images/path-finding.excalidraw.png)
