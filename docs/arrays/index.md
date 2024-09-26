@@ -9,3 +9,7 @@ In an _Array_, you have direct access to indices. When an _Array_ is created, me
 Can we have an array access with the ability to grow?
 
 ![array-list](./images/array-list.excalidraw.png)
+
+## RingBuffer
+
+![ring-buffer](./images/ring-buffer.excalidraw.png)
