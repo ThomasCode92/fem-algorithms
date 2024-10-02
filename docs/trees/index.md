@@ -20,3 +20,7 @@
 ![traversal](./images/traversal.excalidraw.png)
 
 These types of traversals are known as **Depth First Search** (or DFS).
+
+### Breadth-First Search
+
+![breadth-first search](./images/bf_search.excalidraw.png)
