@@ -14,3 +14,9 @@
 -   **Leaves** - A Node without children
 -   **Balanced** A Tree is perfectly _balanced_ when any Node's left and right children have the same height.
 -   **Branching Factor** - The amount of children a Tree has.
+
+## Tree Traversal
+
+![traversal](./images/traversal.excalidraw.png)
+
+These types of traversals are known as _Depth First Search_ (or DFS).
