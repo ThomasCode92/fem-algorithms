@@ -28,3 +28,7 @@ These types of traversals are known as **Depth First Search** (or DFS).
 ### Binary Tree Comparison
 
 ![comparison](./images/comparison.excalidraw.png)
+
+## Binary Search Tree (BST)
+
+![binary search tree](./images/bst.excalidraw.png)
