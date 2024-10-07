@@ -9,3 +9,7 @@ The simplest way to put it is a binary tree where every child and grand child ar
 -   There is no traversing the tree
 
 ![heap](./images/heap.excalidraw.png)
+
+## Tries
+
+![tries](./images/tries.excalidraw.png)
