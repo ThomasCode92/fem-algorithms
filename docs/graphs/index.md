@@ -26,3 +26,7 @@ Big O is commonly stated in terms of _V_ and _E_, where _V_ stands for the verti
 ## Adjacency List vs Adjacency Matrix
 
 ![list-matrix](./images/list-matrix.excalidraw.png)
+
+## Dijkstra's Shortest Path
+
+![dijkstra](./images/dijkstra.excalidraw.png)
