@@ -22,3 +22,7 @@
 ### Big O
 
 Big O is commonly stated in terms of _V_ and _E_, where _V_ stands for the vertices and _E_ stands for the Edges. So _O(V\*E)_ means that we will check every vertex, and on every vertex we check every edge.
+
+## Adjacency List vs Adjacency Matrix
+
+![list-matrix](./images/list-matrix.excalidraw.png)
