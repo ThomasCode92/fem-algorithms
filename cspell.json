@@ -1,4 +1,4 @@
 {
     "words": ["deque"],
-    "ignoreWords": []
+    "ignoreWords": ["dists", "adjs"]
 }
