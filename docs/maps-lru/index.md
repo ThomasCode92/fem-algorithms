@@ -10,3 +10,9 @@
 -   **Key** - A value that is hashable and is used to look up data. The hash has to be consistent.
 -   **Value** - A value that is associated with a key.
 -   **Collision** - When 2 keys map to the same cell.
+
+## LRU Cache
+
+LRU stands for _Least Recently Used_ and is a Caching Mechanism.
+
+![lru](./images/lru.excalidraw.png)
