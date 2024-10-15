@@ -4,6 +4,9 @@
     "gitlens.codeLens.authors.enabled": false,
     "jest.jestCommandLine": "npx jest --silent --runInBand",
     "jest.runMode": "on-demand",
+    "material-icon-theme.files.associations": {
+        ".tool-versions": "tune"
+    },
 
     // IDE Config
     "editor.defaultFormatter": "esbenp.prettier-vscode",
